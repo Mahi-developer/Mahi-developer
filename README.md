@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mahi-developer
+- I'm a **WEB & APP** **Developer** 
 - 👀 while(alive):  
 - 🌱     eat
 - 💞️     sleep
