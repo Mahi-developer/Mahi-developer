@@ -3,8 +3,9 @@
 - Working as **Intern** 💻
 - 👀 while(alive):  
 - 🌱     eat
+- 📫     code! &
 - 💞️     sleep
-- 📫     code!
+
 
 <!---
 Mahi-developer/Mahi-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
