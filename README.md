@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Mahi-developer
-- I'm a **WEB & APP** **Developer** 
-- Working as **Intern** 💻
-- 👀 while(alive):  
-- 🌱     eat
-- 📫     code! &
-- 💞️     sleep
+- I'm a **BACKEND, WEB & MOBILE APPLICATION** **Developer** 
+- Working as **Software Enginner** 💻
+- Chennai
 
 
 <!---
