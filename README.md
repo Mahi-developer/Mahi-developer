@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahi-developer
-- I'm a **BACKEND, WEB & MOBILE APPLICATION** **Developer** 
-- Working as **Software Enginner** 💻
+- I'm a **Backend, Web & Mobile Application** **Developer** 
+- Working as a **Software Enginner** 💻
 - Chennai
 
 
